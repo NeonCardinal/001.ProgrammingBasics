@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.HelloCSharp", "001.HelloCSharp\001.HelloCSharp.csproj", "{EDB93B19-8D0B-4CD5-8EFD-729B87E1D30A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.HelloCSharp", "001.HelloCSharp\001.HelloCSharp.csproj", "{EDB93B19-8D0B-4CD5-8EFD-729B87E1D30A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002.Expression", "002.Expression\002.Expression.csproj", "{14852D1B-DB8B-4B3F-9DB4-8E01C32CD806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.Expression", "002.Expression\002.Expression.csproj", "{14852D1B-DB8B-4B3F-9DB4-8E01C32CD806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003.NumsOneToTwenty", "003.NumsOneToTwenty\003.NumsOneToTwenty.csproj", "{B1B587CD-EB9A-4FB9-BDF7-B729A9A906AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003.NumsOneToTwenty", "003.NumsOneToTwenty\003.NumsOneToTwenty.csproj", "{B1B587CD-EB9A-4FB9-BDF7-B729A9A906AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004.TriangleOfStars", "004.TriangleOfStars\004.TriangleOfStars.csproj", "{2B0590F2-AC7A-47A6-B35E-B4E3DE3C3ACE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004.TriangleOfStars", "004.TriangleOfStars\004.TriangleOfStars.csproj", "{2B0590F2-AC7A-47A6-B35E-B4E3DE3C3ACE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005.RectangleArea", "005.RectangleArea\005.RectangleArea.csproj", "{D90835E0-02D1-4D97-AFB2-52E07EC8248A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005.RectangleArea", "005.RectangleArea\005.RectangleArea.csproj", "{D90835E0-02D1-4D97-AFB2-52E07EC8248A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006.SquareOfStars", "006.SquareOfStars\006.SquareOfStars.csproj", "{871FF1FD-C270-4319-9C59-6E9860A308CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007.Sumator", "007.Sumator\007.Sumator.csproj", "{C53A313A-6F58-4A06-9455-69B88977884F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008.WebApp", "008.WebApp\008.WebApp.csproj", "{8A88AC45-A9FA-49D8-9BC7-AC8A3F3FB25F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{D90835E0-02D1-4D97-AFB2-52E07EC8248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D90835E0-02D1-4D97-AFB2-52E07EC8248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D90835E0-02D1-4D97-AFB2-52E07EC8248A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871FF1FD-C270-4319-9C59-6E9860A308CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871FF1FD-C270-4319-9C59-6E9860A308CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871FF1FD-C270-4319-9C59-6E9860A308CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871FF1FD-C270-4319-9C59-6E9860A308CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53A313A-6F58-4A06-9455-69B88977884F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53A313A-6F58-4A06-9455-69B88977884F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53A313A-6F58-4A06-9455-69B88977884F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53A313A-6F58-4A06-9455-69B88977884F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A88AC45-A9FA-49D8-9BC7-AC8A3F3FB25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A88AC45-A9FA-49D8-9BC7-AC8A3F3FB25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A88AC45-A9FA-49D8-9BC7-AC8A3F3FB25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A88AC45-A9FA-49D8-9BC7-AC8A3F3FB25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
